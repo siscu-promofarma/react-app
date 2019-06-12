@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/siscu-promofarma/react-app#readme",
   "dependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
